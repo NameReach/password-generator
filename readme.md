@@ -39,26 +39,18 @@ The generator can be restarted at any time during the process and can therefore 
 
 
 Clone the repository and run the script:
+```
+git clone https://github.com/NameReach/password-generator.git
 
+cd "Password Generator"
 
+python generator.py
+```
+**Note:** If the "python generator.py" command doesn't work, try right-clicking the app and selecting “Open with” > “Python,” or try launching it using a Python editor like Thonny. That should do the trick.
 
-&#x20;   git clone https://github.com/NameReach/password-generator.git
-
-&#x20;   cd "Password Generator"
-
-&#x20;   python generator.py
-
-
-
-###Note: If the Python command doesn't work, try right-clicking the app and selecting “Open with” > “Python,” or try launching it using a Python editor like Thonny. That should do the trick.
-
-
-
-Then just follow the instructions in the terminal. If that does not work, per
+Then just follow the instructions in the terminal. It should be fairly user-friendly.
 
 ## Example output
-
-
 
 &#x20;   ──────────────────────────────────────────────────
 
@@ -75,7 +67,6 @@ Then just follow the instructions in the terminal. If that does not work, per
 &#x20;     Length:   12 characters
 
 &#x20;   ──────────────────────────────────────────────────
-
 
 
 ## License
