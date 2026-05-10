@@ -1,7 +1,8 @@
+# This Generator is designed to create an unlimited amount of passwords directly within the terminal
+# Author: NameReach
+
 import random
 import string
-import argparse
-import sys
 
 class Colors:
     RED   = "\033[91m"
